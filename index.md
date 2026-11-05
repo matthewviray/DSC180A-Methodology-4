@@ -1,4 +1,4 @@
-# DSC 180A — Methodology 4
+# Quarter 2 Brainstorming Questions
 
 **Student:** Matthew Viray  
 **Email:** [mjviray@ucsd.edu](mailto:mjviray@ucsd.edu)  
