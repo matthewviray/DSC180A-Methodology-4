@@ -1,9 +1,9 @@
 # Quarter 2 Brainstorming Questions
 
 **Student:** Matthew Viray  
-**Email:** [mjviray@ucsd.edu](mailto:mjviray@ucsd.edu)
-**Section:** D05
-**Mentors:** Haojian Jin, Michael Deisher, Sylvia Downing
+**Email:** [mjviray@ucsd.edu](mailto:mjviray@ucsd.edu)    
+**Section:** D05     
+**Mentors:** Haojian Jin, Michael Deisher, Sylvia Downing  
 
 ---
 
